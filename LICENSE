@@ -1,0 +1,313 @@
+COMBINED LICENSE: FCC-CORE v1.3.1
+=================================
+CC BY-NC-ND 4.0 + OSL-ER v1.0 + ANTI-HARM + NO COMMERCIAL USE
+Copyright (C) 2025 Igor Chechelnitsky
+
+---
+
+PREAMBLE
+
+This Work is dual-licensed under:
+1. Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 (CC BY-NC-ND)
+2. Open Science License with Ethical Restrictions (OSL-ER v1.0)
+3. Additional Anti-Harm & Non-Commercial Clauses
+
+The most restrictive provisions apply. Commercial use is STRICTLY PROHIBITED
+without explicit written permission from the Author.
+
+---
+
+DEFINITIONS
+
+"Work" means FCC-CORE v1.3.1 software, documentation, proofs, and all 
+associated materials.
+
+"Author" means Igor Chechelnitsky (ORCID: 0009-0007-4607-1946).
+
+"Commercial Use" includes any use for profit, revenue generation, or 
+financial benefit, directly or indirectly, including:
+  - SaaS/cloud deployment
+  - Integration into paid products
+  - Use by commercial entities
+  - Any form of monetization
+
+"Non-Commercial Use" means research, education, academic purposes only.
+
+"Derivative Work" means any modification, adaptation, or extension of the Work.
+
+---
+
+SECTION I: ATTRIBUTION REQUIREMENT (CC BY-NC-ND 4.0)
+
+You MUST:
+1. Give appropriate credit to the Author (Igor Chechelnitsky)
+2. Provide a link to this license
+3. Indicate if changes were made
+4. Do not suggest Author endorses your use
+
+Attribution format:
+  "FCC-CORE v1.3.1 by Igor Chechelnitsky (https://github.com/yourusername/fcc-core)
+   Licensed under CC BY-NC-ND 4.0 + OSL-ER v1.0"
+
+---
+
+SECTION II: NON-COMMERCIAL RESTRICTION (CC BY-NC-ND 4.0 + ADDITIONAL)
+
+✅ PERMITTED (Non-Commercial Only):
+  • Academic research & publications
+  • Educational use (universities, courses)
+  • Personal learning & experimentation
+  • Open-source non-profit projects
+  • Peer review & scientific validation
+
+❌ STRICTLY PROHIBITED (Commercial Use):
+  • Integration into commercial products
+  • SaaS or cloud service deployment
+  • Cryptocurrency/blockchain startups
+  • Enterprise software
+  • Any use for revenue or profit
+  • Paid consulting services
+  • Commercial blockchain networks
+  • Business model integration
+
+⚠️ EXCEPTION: 
+  Contact Author (Igor Chechelnitsky) for EXPLICIT WRITTEN PERMISSION
+  to commercial licensing. All commercial rights are RESERVED.
+
+---
+
+SECTION III: NO DERIVATIVES (CC BY-NC-ND 4.0)
+
+You MUST NOT:
+  • Create derivative works
+  • Modify the Work
+  • Adapt or transform the Work
+  • Create improved versions
+  • Fork for your own use
+
+Exception: You MAY:
+  • Translate for academic purposes (with attribution)
+  • Create analysis/commentary (not derived works)
+  • Use in research papers (cite the Work)
+
+---
+
+SECTION IV: ETHICAL RESTRICTIONS (OSL-ER v1.0 + ENHANCEMENTS)
+
+You MUST NOT use this Work, directly or indirectly, for:
+
+A. **WEAPONS & VIOLENCE**
+   ✗ Weapons development or enhancement
+   ✗ Military applications (unless humanitarian-only)
+   ✗ Autonomous weapon systems
+   ✗ Systems designed to cause harm
+   ✗ Defense applications (without explicit approval)
+
+B. **SURVEILLANCE & PRIVACY VIOLATION**
+   ✗ Mass surveillance systems
+   ✗ Unauthorized tracking or profiling
+   ✗ Privacy-invasive applications
+   ✗ Biometric tracking without consent
+   ✗ Data harvesting from non-consenting users
+
+C. **FRAUD & FINANCIAL MANIPULATION**
+   ✗ Market manipulation or spoofing
+   ✗ Ponzi schemes or scams
+   ✗ Cryptocurrency fraud or rug pulls
+   ✗ Pump-and-dump schemes
+   ✗ Unauthorized fund access
+
+D. **DISINFORMATION & MANIPULATION**
+   ✗ Deepfake creation for deception
+   ✗ Automated propaganda
+   ✗ Bot networks for manipulation
+   ✗ Electoral interference
+   ✗ Misinformation at scale
+
+E. **AI ALIGNMENT VIOLATIONS**
+   ✗ Autonomous systems without human oversight
+   ✗ Systems that circumvent human control
+   ✗ Self-modifying AI systems
+   ✗ Systems designed for deception
+   ✗ Harmful emergent behaviors
+
+F. **HUMAN RIGHTS VIOLATIONS**
+   ✗ Child exploitation or harm
+   ✗ Forced labor systems
+   ✗ Human trafficking
+   ✗ Genocide or crimes against humanity
+   ✗ Authoritarian surveillance (CCTV dictatorships)
+
+G. **BIOLOGICAL & ENVIRONMENTAL HARM**
+   ✗ Bioweapon development
+   ✗ Environmental destruction
+   ✗ Climate harm acceleration
+   ✗ Ecosystem collapse systems
+
+---
+
+SECTION V: DISTRIBUTION RESTRICTIONS
+
+If you distribute the Work, you MUST:
+
+1. **Include This License** — Full text, unmodified
+2. **Retain Copyright** — "Copyright (C) 2025 Igor Chechelnitsky"
+3. **Provide Source** — Make code available (open-source format)
+4. **Add Notice** — "This Work is restricted from commercial use"
+5. **Maintain Attribution** — List original Author/contributors
+6. **Document Changes** — If you analyze/discuss the Work, note any changes
+7. **Same License** — Any permitted derivative must use this license
+
+---
+
+SECTION VI: DISCLAIMER
+
+THIS WORK IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
+THE AUTHOR MAKES NO WARRANTIES, EXPRESS OR IMPLIED:
+  • MERCHANTABILITY
+  • FITNESS FOR A PARTICULAR PURPOSE
+  • NON-INFRINGEMENT
+  • SECURITY
+  • RELIABILITY
+
+THE AUTHOR SHALL NOT BE LIABLE FOR:
+  • Direct or indirect damages
+  • Loss of profits, data, or business
+  • Misuse or harm caused by the Work
+  • Any claims arising from use
+
+---
+
+SECTION VII: TERMINATION & ENFORCEMENT
+
+Your rights terminate if you:
+1. Violate any Ethical Restriction
+2. Attempt commercial use
+3. Create unauthorized derivatives
+4. Breach attribution requirements
+5. Use for prohibited purposes
+
+Upon termination:
+  • You MUST cease all use immediately
+  • You MUST destroy all copies
+  • Your sublicenses are void
+  • You MUST notify the Author
+
+The Author may pursue legal action for violations.
+
+---
+
+SECTION VIII: SEVERABILITY
+
+If any provision is unenforceable:
+  • Remaining provisions continue in full force
+  • The Non-Commercial Restriction is MANDATORY & NON-SEVERABLE
+  • The Ethical Restrictions are MANDATORY & NON-SEVERABLE
+  • Other provisions may be modified only with Author's written consent
+
+---
+
+SECTION IX: COMMERCIAL LICENSING
+
+To obtain commercial use rights, contact:
+
+  Igor Chechelnitsky
+  Independent Researcher
+  ORCID: 0009-0007-4607-1946
+  Ashkelon, Israel 🇮🇱
+  
+  Via: GitHub issue or academic email
+
+Commercial licensing includes:
+  • Written permission from Author
+  • Negotiated terms & conditions
+  • Potential royalty/equity arrangements
+  • Custom non-disclosure agreements
+
+---
+
+SECTION X: CHOICE OF LAW & JURISDICTION
+
+This license is governed by the laws of:
+  • Israel (primary jurisdiction)
+  • International copyright law (WIPO conventions)
+  • Creative Commons jurisdiction (secondary)
+
+Disputes shall be resolved through:
+  1. Good-faith negotiation
+  2. Mediation (if needed)
+  3. Binding arbitration (as last resort)
+
+---
+
+SECTION XI: EFFECTIVE DATE & VERSIONS
+
+Version:    FCC-CORE v1.3.1 Combined License
+Effective:  2025-12-11
+Jurisdiction: Israel (Primary), International (Secondary)
+
+This license is effective upon first distribution of the Work.
+The Author may update this license for future versions with notice.
+
+---
+
+SECTION XII: NO WAIVER
+
+Failure to enforce any provision does not constitute waiver of that provision.
+The Author's failure to enforce rights does not waive those rights.
+The Author retains all rights not explicitly granted.
+
+---
+
+SECTION XIII: CONTACT & CLARIFICATION
+
+For questions about:
+  ✓ Permitted uses → Check Section I-III
+  ✓ Ethical restrictions → Check Section IV
+  ✓ Commercial licensing → Check Section IX
+  ✓ Violations → Author@github.com
+
+---
+
+ACKNOWLEDGMENTS
+
+This license combines:
+  ✓ CC BY-NC-ND 4.0 (Creative Commons restrictions)
+  ✓ OSL-ER v1.0 (Ethical clauses)
+  ✓ Hippocratic License (harm prevention)
+  ✓ Custom anti-commercial & anti-harm provisions
+
+Designed to protect:
+  • Author's intellectual property
+  • Scientific integrity
+  • Ethical use
+  • Harm prevention
+
+---
+
+SUMMARY FOR USERS
+
+✅ YOU CAN:
+  • Use for research & education (non-profit)
+  • Cite in academic papers
+  • Study the code/proofs
+  • Run the software locally
+  • Contribute via pull requests (non-derivative)
+
+❌ YOU CANNOT:
+  • Use for commercial purposes
+  • Create derivatives or modifications
+  • Deploy as paid service
+  • Integrate into profit products
+  • Use for weapons, surveillance, fraud, harm
+
+⚠️  COMMERCIAL USE:
+  • Requires explicit written permission from Author
+  • Contact Igor Chechelnitsky via GitHub
+
+---
+
+END OF COMBINED LICENSE
+
+Effective: 2025-12-11
+Copyright: Igor Chechelnitsky 🇮🇱
