@@ -1,0 +1,53 @@
+\documentclass[11pt]{article}
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{hyperref}
+
+\title{FCC-CORE v1.3.1: Fractal Causal Core with Cost-Bounded Healing and Energy Invariants}
+\author{Igor Chechelnitsky\\Independent Researcher, Ashkelon, Israel\\ORCID: 0009-0007-4607-1946}
+\date{2025-12-11}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+We present FCC-CORE v1.3.1, a fractal causal growth model based on Menger sponge expansion with stochastic defects and a cost-bounded healing operator, equipped with an explicit conserved energy invariant.
+This repository provides a formal specification, a reference Python implementation, and reproducibility assets suitable for archival on Zenodo.
+\end{abstract}
+
+\section{Ideal growth}
+At level $t \in \mathbb{N}$, the ideal cell count is $N_{\text{ideal}}(t)=20^t$, with scale $s(t)=3^{-t}$.
+
+\section{Defects}
+Let $M_t$ be the ideal set and $M'_t \subseteq M_t$ be the realized set.
+Defects are $D_t = M_t \setminus M'_t$, with $\delta_t = |D_t|$.
+
+\section{Defect probability}
+The defect probability at step $t\to t+1$ is
+\[
+p_{\text{defect}}(t,E_{\text{heal}}(t)) = p_0 (1+\varepsilon)^{-t}\exp(-kE_{\text{heal}}(t)).
+\]
+
+\section{Energy model}
+Geometric deficit at level $t+1$:
+\[
+\Delta E_{\text{geom}}(t+1)=\delta_{t+1}\cdot 20^{-(t+1)}.
+\]
+Energy is distributed among $(E_{\text{geom}},E_{\text{heal}},E_{\text{entropy}})$ and the total is conserved:
+\[
+E_{\text{geom}}(t)+E_{\text{heal}}(t)+E_{\text{entropy}}(t)=1.
+\]
+
+\section{Healing operator}
+Healing is discrete with per-cell repair cost $20^{-(t+1)}$. A budget $B$ repairs $\lfloor B / 20^{-(t+1)}\rfloor$ defects, with residual budget carried forward.
+
+\section{Reproducibility}
+See \texttt{reproducibility/} for environment pins, and \texttt{tests/} for invariants.
+
+\section{License}
+This work is distributed under a combined restrictive license (CC BY-NC-ND 4.0 + OSL-ER v1.0 + Anti-Harm + No-Commercial). See \texttt{LICENSE.txt}.
+
+\bibliographystyle{plain}
+\bibliography{references}
+
+\end{document}

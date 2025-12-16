@@ -1,0 +1,25 @@
+{
+  "title": "FCC-CORE v1.3.1 — Fractal Causal Core with cost-bounded healing",
+  "upload_type": "software",
+  "description": "FCC-CORE v1.3.1: Fractal Causal Core (Menger-sponge growth with stochastic defects, cost-bounded healing, and an explicit conserved energy invariant). Includes specification, reference implementation, and reproducibility assets.\n\nLICENSE NOTE: This work is under a combined restrictive license (CC BY-NC-ND 4.0 + OSL-ER v1.0 + Anti-Harm + No-Commercial). Most restrictive provisions apply.\n",
+  "creators": [
+    {
+      "name": "Chechelnitsky, Igor",
+      "orcid": "0009-0007-4607-1946",
+      "affiliation": "Independent Researcher, Ashkelon, Israel"
+    }
+  ],
+  "license": "cc-by-nc-nd-4.0",
+  "keywords": [
+    "fractal",
+    "Menger sponge",
+    "stochastic defects",
+    "healing",
+    "energy invariant",
+    "box-counting",
+    "simulation",
+    "reproducibility"
+  ],
+  "notes": "Commercial use prohibited; no derivatives; ethical restrictions apply (see LICENSE.txt).",
+  "access_right": "open"
+}
