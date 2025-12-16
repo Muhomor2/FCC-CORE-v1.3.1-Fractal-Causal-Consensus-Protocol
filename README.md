@@ -57,14 +57,6 @@ See [`CITATION.cff`](CITATION.cff). For papers:
 
 ## Zenodo publishing checklist (GitHub → Zenodo)
 
-1. Push this repository to GitHub (public recommended for Zenodo integration).
-2. Create a GitHub Release tag, e.g. `v1.3.1`.
-3. In Zenodo: **Account → GitHub → enable** this repository.
-4. Create a new release again if needed; Zenodo will archive it automatically.
-5. Verify metadata from `.zenodo.json` / `zenodo.json` and edit in Zenodo UI if required.
-
-> Tip: keep `VERSION` and `CHANGELOG.md` updated before each release.
-
 ## Contact
 
 - GitHub Issues (preferred)
