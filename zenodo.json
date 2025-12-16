@@ -1,5 +1,5 @@
 {
-  "title": "FCC-CORE v1.3.1 — Fractal Causal Core with cost-bounded healing",
+  "title": "FCC-CORE v1.3.1 — Energy-Conserving Fractal Consensus Core (Menger DAG)",
   "upload_type": "software",
   "description": "FCC-CORE v1.3.1: Fractal Causal Core (Menger-sponge growth with stochastic defects, cost-bounded healing, and an explicit conserved energy invariant). Includes specification, reference implementation, and reproducibility assets.\n\nLICENSE NOTE: This work is under a combined restrictive license (CC BY-NC-ND 4.0 + OSL-ER v1.0 + Anti-Harm + No-Commercial). Most restrictive provisions apply.\n",
   "creators": [
