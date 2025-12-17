@@ -1,21 +1,10 @@
 cff-version: 1.2.0
-message: "If you use this work in academic research, please cite it as below."
-title: "FCC-CORE v1.3.1"
-version: "1.3.1"
-date-released: 2025-12-11
-type: software
+title: "FCC-CORE v1.3.1 — Energy-Conserving Fractal Causal Consensus Core"
+message: "If you use this work, please cite it as below."
 authors:
-  - family-names: "Chechelnitsky"
-    given-names: "Igor"
-    orcid: "https://orcid.org/0009-0007-4607-1946"
-repository-code: "https://github.com/Muhomor2/FCC-CORE-v1.3.1-Fractal-Causal-Consensus-Protocol"
-license: "CC-BY-NC-ND-4.0 + OSL-ER-1.0 + Anti-Harm + No-Commercial"
-preferred-citation:
-  type: generic
-  authors:
-    - family-names: "Chechelnitsky"
-      given-names: "Igor"
-      orcid: "https://orcid.org/0009-0007-4607-1946"
-  title: "FCC-CORE v1.3.1: Fractal Causal Core with cost-bounded healing and energy invariants"
-  year: 2025
-  version: "1.3.1"
+  - family-names: Chechelnitsky
+    given-names: Igor
+    orcid: https://orcid.org/0009-0007-4607-1946
+version: 1.3.1
+date-released: 2025-12-11
+license: CC-BY-NC-ND-4.0
