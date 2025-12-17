@@ -1,5 +1,4 @@
-COMBINED LICENSE: FCC-CORE v1.3.1
-=================================
+FCC-CORE v1.3.1 Combined License
 CC BY-NC-ND 4.0 + OSL-ER v1.0 + ANTI-HARM + NO COMMERCIAL USE
 Copyright (C) 2025 Igor Chechelnitsky
 
