@@ -6,7 +6,7 @@
 - **Version:** v1.3.1
 - **Jurisdiction:** Israel (primary)
 - **Primary outputs:** reproducible simulation code + specification + preprint source
-
+https://zenodo.org/records/17961529
 ## Repository layout
 
 - `docs/` — specification, model definitions, measurement procedures (D_eff via box-counting)
